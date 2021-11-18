@@ -1,0 +1,4 @@
+{
+    "baseUrl":"https://localhost:55650",
+    "usersApi":"/api/users"
+}
